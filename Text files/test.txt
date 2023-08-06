@@ -1,0 +1,7 @@
+UMA1276 Complex Functions and Laplace Transforms
+UEE1276 Basic Electrical, Electronics and Measurement Engineering
+UCS1201 Programming in C
+UEN1276 Technical English
+UPH1276 Physics for Information Science	
+UCY1276 Environmental Science
+	

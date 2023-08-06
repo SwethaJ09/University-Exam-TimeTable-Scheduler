@@ -1,0 +1,6 @@
+UCS1602 Compiler Design
+UCS1601 Internet Programming
+UCS1603 Introduction to Machine Learning
+UCS1604	Object Oriented Analysis and Design
+UPE1605 Professional Elective2
+UOE1606 Open Elective1

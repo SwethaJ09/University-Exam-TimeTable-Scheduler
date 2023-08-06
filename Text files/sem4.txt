@@ -1,0 +1,6 @@
+Probability and Statistics
+UCS1403 Design and Analysis of Algorithms
+UCS1401	Computer Organization and Architecture
+UCS1402 Operating Systems
+UCS1404 Database Management Systems
+UCS1405	Software Engineering

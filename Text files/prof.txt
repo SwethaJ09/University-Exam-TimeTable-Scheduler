@@ -1,0 +1,20 @@
+Mrs.Kavitha,Professor
+Ms.Radha,Assistant Professor
+Mr.Kannan, Professor
+Mr.Aarush,Assistant Professor
+Mrs.Divya,Assistant Professor
+Ms.Charumathi, Professor
+Mr.Anand,Assistant Professor
+Mr.Ram,Professor
+Ms.Sri,Professor
+Mr.Pradeep,Assistant Professor
+Ms.Swetha,Professor
+Mr.Sushanth,Professor
+Mr.Nadhim,Assistant Professor
+Mr.Aman,Professor
+Mrs.Chumki,Professor
+Mr.Mitul,Assistant Professor
+Mr.Ajith,Professor
+Ms.Priya,Assistant Professor
+Mrs.Neela, Assistant Professor
+Ms.Sangavi, Professor
